@@ -7,4 +7,8 @@
   维护更新到本学期结束
     --补充领域介绍文档
     --每篇论文入选理由，1-3句话介绍论文亮点
-    --随时更新
+    -随时更新
+
+#sentiment analysis Survey
+  1、Deep Learning for Sentiment Analysis：A Survey
+  2、Recent advances in deep learning based sentiment analysis
