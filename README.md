@@ -10,5 +10,5 @@
     -随时更新
 
 #sentiment analysis Survey
-  1、Deep Learning for Sentiment Analysis：A Survey
-  2、Recent advances in deep learning based sentiment analysis
+  1、Deep Learning for Sentiment Analysis：A Survey(2018年）该文首先对深度学习的技术进行了概述，然后对基于深度学习的情感分析研究进行了全面的综述
+  2、Recent advances in deep learning based sentiment analysis(2020年）老师推荐，综述了近年来基于深度学习的情感分析的研究文献。从粗粒度情感分类任务到细粒度情感挖掘任务，从表层情感检测到隐性情感分析任务，从理解文本情感到生成有情感的文本任务。给出了相应数据集
