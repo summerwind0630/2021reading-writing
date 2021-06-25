@@ -21,6 +21,12 @@ Sentiment analysis Survey<br>
   《情感分析》刘兵<br>
   《文本情感分析》林政<br>
   
+  USEFUL URL
+  ------
+  https://paperswithcode.com/task/sentiment-analysis<br>
+  http://nlpprogress.com/english/sentiment_analysis.html<br>
+  https://github.com/changwookjun/nlp-paper
+  
 Paper List
 ------
 硕博论文
@@ -41,5 +47,26 @@ SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis (ACL2020)
 Sentiment Analysis by Capsules (www2018)<br>
 模型的关键思想是设计一个简单的胶囊结构，并使用每个胶囊专注于特定的情感类别。每个胶囊输出其状态概率和重建表示!实验表明，在没有借助语言学知识的情况下，这个简单的基于胶囊的模型取得了迄今为止最优秀的情感分类性能,胶囊能够注意到具有可解释性的词语  
 
+A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis（EMNLP2016）  
+除了各句子内部的信息以外，句子与句子间的相关性对于情感分析也是十分重要的，故而本文同时获取句子级别信息(sentence-level)和评论级别信息(review-level)。.提出hierarchical bidirectional long short-term memory(H-LSTM)模型，综合评论的句子内部信息特征、句子间信息特征、句子的实体属性特征(eg.FOOD#QUALITY)，进行情感分析。最终证明本文提出模型具有更好的效果且不需要文本以外信息的结论。与Best、XRCE、IIT-TUDA这些综合了文本之外的信息的模型比较，本文的H-LSTM只需要使用文本本身信息，能获得势均力敌(competitive performance)的结果。  
 
+Convolutional Neural Networks for Sentence Classification(2014)
+元老级文章。本文从Embedding层进行验证实验，论证强调预训练(pre-train)和微调(fine-tune)对模型结果的巨大改观作用。br<>
+Sentiment Analysis
+Multi-Task Deep Neural Networks for Natural Language Understanding - Xiaodong Liu(2019)
 
+Aspect-level Sentiment Analysis using AS-Capsules - Yequan Wang(2019)
+
+On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis - Jose Camacho-Collados(2018)
+
+Learned in Translation: Contextualized Word Vectors - Bryan McCann(2018)
+
+Universal Language Model Fine-tuning for Text Classification - Jeremy Howard(2018)
+
+Convolutional Neural Networks with Recurrent Neural Filters - Yi Yang(2018)
+
+Information Aggregation via Dynamic Routing for Sequence Encoding - Jingjing Gong(2018)
+
+Learning to Generate Reviews and Discovering Sentiment - Alec Radford(2017)
+
+A Structured Self-attentive Sentence Embedding - Zhouhan Lin(2017)
