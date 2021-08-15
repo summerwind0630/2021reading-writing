@@ -52,6 +52,15 @@ A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis（EMNLP2016�
 
 Convolutional Neural Networks for Sentence Classification(2014)
 元老级文章。本文从Embedding层进行验证实验，论证强调预训练(pre-train)和微调(fine-tune)对模型结果的巨大改观作用。br<>
+
+Aspect Sentiment Classification with Document-level Sentiment Preference Modeling（ACL2020）
+本文构建了句子之间的相关网络，其他句子为所预测句子的情感分析任务提供了支持信息。这一方法的假设是短文本（如商品评价）中针对同一问题的情感表述较为一致，甚至整个文本的情感基调都较连贯，因此其他句子的信息可以提供有益的指导。
+
+Target-Guided Structured Attention Network for Target-Dependent Sentiment Analysis
+不同于以往将单词作为基本分析单元的研究，本文提出模型分析（如注意力机制）的基本单位应该是语义群（片段）而非单词，并基于这个想法构建了针对对象的语义群注意力机制。最终的结果也表明这样的方法尤其在复杂句子中能更准确地捕捉情感信息。
+
+Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis（ACL2020）
+无论是从应用还是理论角度看，对象级情感分析都不应单独进行，而要与对象抽取任务结合起来进行。该文章构建了这样的一体化工具，能充分利用上下文和句法信息，有效地提升了对象级情感分类成绩。
 Sentiment Analysis
 Multi-Task Deep Neural Networks for Natural Language Understanding - Xiaodong Liu(2019)
 
@@ -70,3 +79,74 @@ Information Aggregation via Dynamic Routing for Sequence Encoding - Jingjing Gon
 Learning to Generate Reviews and Discovering Sentiment - Alec Radford(2017)
 
 A Structured Self-attentive Sentence Embedding - Zhouhan Lin(2017)
+
+North American Chapter of the Association for Computational Linguistics (2021)
+
+NAACL
+------
+
+Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa
+Junqi Dai | Hang Yan | Tianxiang Sun | Pengfei Liu | Xipeng Qiu
+
+ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction
+Jiahao Bu | Lei Ren | Shuang Zheng | Yang Yang | Jingang Wang | Fuzheng Zhang | Wei Wu
+
+Domain Adaptation for Arabic Cross-Domain and Cross-Dialect Sentiment Analysis from Contextualized Word Embedding
+Abdellah El Mekki | Abdelkader El Mahdaouy | Ismail Berrada | Ahmed Khoumsi
+
+Multi-task Learning of Negation and Speculation for Targeted Sentiment Classification
+Andrew Moore | Jeremy Barnes
+
+Graph Ensemble Learning over Multiple Dependency Trees for Aspect-level Sentiment Classification
+Xiaochen Hou | Peng Qi | Guangtao Wang | Rex Ying | Jing Huang | Xiaodong He | Bowen Zhou
+
+Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble
+Yuanhe Tian | Guimin Chen | Yan Song
+
+Grey-box Adversarial Attack And Defence For Sentiment Classification
+Ying Xu | Xu Zhong | Antonio Jimeno Yepes | Jey Han Lau
+
+Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks
+Zixuan Ke | Hu Xu | Bing Liu
+
+Towards Sentiment and Emotion aided Multi-modal Speech Act Classification in Twitter
+Tulika Saha | Apoorva Upadhyaya | Sriparna Saha | Pushpak Bhattacharyya
+
+When and Why a Model Fails? A Human-in-the-loop Error Detection Framework for Sentiment Analysis
+Zhe Liu | Yufan Guo | Jalal Mahmud
+
+On the logistical difficulties and findings of Jopara Sentiment Analysis
+Marvin Agüero-Torales | David Vilares | Antonio López-Herrera
+
+Unsupervised Self-Training for Sentiment Analysis of Code-Switched Data
+Akshat Gupta | Sargam Menghani | Sai Krishna Rallabandi | Alan W Black
+
+Multi-input Recurrent Independent Mechanisms for leveraging knowledge sources: Case studies on sentiment analysis and health text mining
+Parsa Bagherzadeh | Sabine Bergler
+
+Improving Cross-Lingual Sentiment Analysis via Conditional Language Adversarial Nets
+Hemanth Kandula | Bonan Min
+
+Selective Attention Based Graph Convolutional Networks for Aspect-Level Sentiment Classification
+Xiaochen Hou | Jing Huang | Guangtao Wang | Peng Qi | Xiaodong He | Bowen Zhou
+
+ACL
+-----
+Bridge-Based Active Domain Adaptation for Aspect Term Extraction
+
+Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions
+
+Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction
+
+Towards Generative Aspect-Based Sentiment Analysis
+
+Dynamic and Multi-Channel Graph Convolutional Networks for Aspect-Based Sentiment Analysis
+
+Making Flexible Use of Subtasks: A Multiplex Interaction Network for Unified Aspect-based Sentiment Analysis
+
+CTFN: Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network
+
+Towards Generative Aspect-Based Sentiment Analysis
+
+Cross-Domain Review Generation for Aspect-Based Sentiment Analysis
+
