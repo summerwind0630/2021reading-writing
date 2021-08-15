@@ -23,10 +23,11 @@ Sentiment analysis Survey<br>
   
   USEFUL URL
   ------
+  https://aclanthology.org/ 顶会大全
   https://paperswithcode.com/task/sentiment-analysis<br>
   http://nlpprogress.com/english/sentiment_analysis.html<br>
   https://github.com/changwookjun/nlp-paper
-  
+  https://zhuanlan.zhihu.com/p/376734949 搜集了2014-2020的顶会
 Paper List
 ------
 硕博论文
@@ -150,3 +151,113 @@ Towards Generative Aspect-Based Sentiment Analysis
 
 Cross-Domain Review Generation for Aspect-Based Sentiment Analysis
 
+KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis
+
+Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis
+
+Relational Graph Attention Network for Aspect-based Sentiment Analysis
+
+Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis
+
+ Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis
+ 
+ Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis
+ 
+ EMNLP
+ ------
+ A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis
+会议：EMNLP 2020. Long Paper.
+作者：Zehui Dai, Cheng Peng, Huajie Chen, Yadong Ding
+链接：https://www.aclweb.org/anthology/2020.emnlp-main.565.pdf
+
+
+SentiLARE: Linguistic Knowledge Enhanced Language Representation for Sentiment Analysis
+会议：EMNLP 2020. Long Paper.
+作者：Pei Ke, Haozhe Ji, Siyang Liu, Xiaoyan Zhu, Minlie Huang
+链接：https://www.aclweb.org/anthology/2020.emnlp-main.567.pdf
+
+
+Aspect-Based Sentiment Analysis by Aspect-Sentiment Joint Embedding
+会议：EMNLP 2020. Long Paper.
+作者：Jiaxin Huang, Yu Meng, Fang Guo, Heng Ji, Jiawei Han
+链接：https://www.aclweb.org/anthology/2020.emnlp-main.568.pdf
+
+
+ Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis
+会议：EMNLP 2020. Long Paper.
+作者：Mi Zhang, Tieyun Qian
+链接：https://www.aclweb.org/anthology/2020.emnlp-main.286.pdf
+
+
+Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis
+会议：EMNLP 2020. Long Paper.
+作者：Yuncong Li, Cunxiang Yin, Sheng-hua Zhong, Xu Pan
+链接：https://www.aclweb.org/anthology/2020.emnlp-main.287.pdf
+
+
+ Sentiment Analysis of Tweets Using Heterogeneous Multi-layer Network Representation and Embedding
+会议：EMNLP 2020. Long Paper.
+作者：Loitongbam Gyanendro Singh, Anasua Mitra, Sanasam Ranbir Singh
+链接：https://www.aclweb.org/anthology/2020.emnlp-main.718.pdf
+
+
+ Unified Feature and Instance Based Domain Adaptation for End-to-End Aspect-based Sentiment Analysis
+会议：EMNLP 2020. Long Paper.
+作者：Chenggong Gong, Jianfei Yu, Rui Xia
+链接：https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf
+
+
+Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder
+会议：EMNLP 2020. Short Paper.
+作者：Wenyue Zhang, Xiaoli Li, Yang Li, Suge Wang, Deyu Li, Jian Liao, Jianxing Zheng
+链接：https://www.aclweb.org/anthology/2020.emnlp-main.307.pdf
+
+Aspect Based Sentiment Analysis with Aspect-Specific Opinion Spans
+会议：EMNLP 2020. Short Paper.
+作者：Lu Xu, Lidong Bing, Wei Lu, Fei Huang
+链接：https://www.aclweb.org/anthology/2020.emnlp-main.288.pdf
+
+
+ GRACE: Gradient Harmonized and Cascaded Labeling for Aspect-based Sentiment Analysis
+会议：EMNLP 2020. Findings Short Paper.
+作者：Huaishao Luo, Lei Ji, Tianrui Li, Daxin Jiang, Nan Duan
+链接：https://www.aclweb.org/anthology/2020.findings-emnlp.6.pdf
+
+
+ Sentiment Analysis with Weighted Graph Convolutional Networks
+会议：EMNLP 2020. Findings Short Paper.
+作者：Fanyu Meng, Junlan Feng, Danping Yin, Si Chen, Min Hu
+链接：https://www.aclweb.org/anthology/2020.findings-emnlp.52.pdf
+
+
+ Octa: Omissions and Conflicts in Target-Aspect Sentiment Analysis
+会议：EMNLP 2020. Findings Short Paper.
+作者：Zhe Zhang, Chung-Wei Hang, Munindar Singh
+链接：https://www.aclweb.org/anthology/2020.findings-emnlp.149.pdf
+
+
+ DomBERT: Domain-oriented Language Model for Aspect-based Sentiment Analysis
+会议：EMNLP 2020. Findings Short Paper.
+作者：Hu Xu, Bing Liu, Lei Shu, Philip Yu
+链接：https://www.aclweb.org/anthology/2020.findings-emnlp.156.pdf
+
+
+ A Shared-Private Representation Model with Coarse-to-Fine Extraction for Target Sentiment Analysis
+会议：EMNLP 2020. Findings Short Paper.
+作者：Peiqin Lin, Meng Yang
+链接：https://www.aclweb.org/anthology/2020.findings-emnlp.382.pdf
+
+
+Improving Aspect-based Sentiment Analysis with Gated Graph Convolutional Networks and Syntax-based Regulation
+
+AAAI
+------
+ Word-Level Contextual Sentiment Analysis with Interpretability
+ 
+ Adversarial Training Based Multi-Source Unsupervised Domain Adaptation for Sentiment Analysis
+ 
+ Knowing What, How and Why: A Near Complete Solution for Aspect-Based Sentiment Analysis
+ 
+ Target-Aspect-Sentiment Joint Detection for Aspect-Based Sentiment Analysis
+ 
+ 
