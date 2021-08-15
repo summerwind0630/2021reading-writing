@@ -24,12 +24,43 @@ Sentiment analysis Survey<br>
   USEFUL URL
   ------
   https://aclanthology.org/ 顶会大全
+  
   https://paperswithcode.com/task/sentiment-analysis<br>
+  
   http://nlpprogress.com/english/sentiment_analysis.html<br>
+  
   https://github.com/changwookjun/nlp-paper
+  
+  https://github.com/declare-lab/awesome-sentiment-analysis#robust-sentiment-analysis 按照不同的情感分析任务总结的论文
+  
   https://zhuanlan.zhihu.com/p/376734949 搜集了2014-2020的顶会
+  
 Paper List
 ------
+
+Beginner's Guide (Must-Read Papers)
+-----
+Effects of adjective orientation and gradability on sentence subjectivity
+
+Word sense and subjectivity
+
+Thumbs up?: sentiment classification using machine learning techniques
+
+Thumbs up or thumbs down? semantic orientation applied to unsupervised classification of reviews
+
+A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts
+
+Mining and summarizing customer reviews
+
+Recursive deep models for semantic compositionality over a sentiment treebank
+
+Convolutional neural networks for sentence classification
+
+Contextual valence shifters
+
+SENTIWORDNET: A publicly available lexical resource for opinion mining
+
+
 硕博论文
 ------
 <br>《多层次文本情感分析研究_王业全》<br>
@@ -43,8 +74,10 @@ Paper List
 -----
 A Unified Generative Framework for Aspect-Based Sentiment Analysis （ACL2021.6）<br>
 总结了ABSA的7个子任务，指出现有的一些work还没有很好的有一个统一的框架去一块解决这7类子任务，现在大多是1-3个子任务一起做。而本文构造了一个序列生成任务（预测aspect-term与opinion-term的位置），可以一次性解决这7类子任务。非常好的一个新想法。  
+
 SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis (ACL2020)<br>
 百度提出了一种情感知识增强的语言模型预训练方法，在通用预训练的基础上，设计了面向情感知识建模的Masking策略和情感多目标学习算法，融合了情感词、极性、主体评论关系等多层情感知识，首次实现了情感任务统一的文本预训练表示学习。  
+
 Sentiment Analysis by Capsules (www2018)<br>
 模型的关键思想是设计一个简单的胶囊结构，并使用每个胶囊专注于特定的情感类别。每个胶囊输出其状态概率和重建表示!实验表明，在没有借助语言学知识的情况下，这个简单的基于胶囊的模型取得了迄今为止最优秀的情感分类性能,胶囊能够注意到具有可解释性的词语  
 
@@ -62,7 +95,8 @@ Target-Guided Structured Attention Network for Target-Dependent Sentiment Analys
 
 Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis（ACL2020）
 无论是从应用还是理论角度看，对象级情感分析都不应单独进行，而要与对象抽取任务结合起来进行。该文章构建了这样的一体化工具，能充分利用上下文和句法信息，有效地提升了对象级情感分类成绩。
-Sentiment Analysis
+
+
 Multi-Task Deep Neural Networks for Natural Language Understanding - Xiaodong Liu(2019)
 
 Aspect-level Sentiment Analysis using AS-Capsules - Yequan Wang(2019)
